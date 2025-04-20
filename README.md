@@ -50,7 +50,7 @@ Also, ensure you have [Google Chrome](https://www.google.com/chrome/) installed 
 
 ---
 
-## 📝 Input Format (variantswithdollarsign.txt)
+## 📝 Input Format (variants.txt)
 
 Each question and its steps must be formatted like:
 
@@ -72,7 +72,7 @@ This script:
   - `Q1.png` for question.
   - `Q1_steps.png` for steps.
 
-📤 **Input:** `variantswithdollarsign.txt`  
+📤 **Input:** `variants.txt`  
 📥 **Output:** images in `latex_images/`
 
 ---
@@ -97,8 +97,19 @@ This script:
 **Input Question Image:** `Q1.png`  
 **Input Steps Image:** `Q1_steps.png`  
 **Captured Solution Screenshot:** `Q1.1_solution.png`
-
 ---
+## Output:
+
+### Q1.png
+![Q1](https://github.com/user-attachments/assets/956a7eaa-e02e-4a79-97d1-8f877f87fabf)
+
+### Q1_steps.png
+![Q1_steps](https://github.com/user-attachments/assets/7ab8de52-a9b0-4993-a0bd-b0731e8b298c)
+
+### Q1.1_solution.png
+![Q1 1_solution](https://github.com/user-attachments/assets/28ae5592-eae6-436c-a188-205e0184f7a4)
+
+
 
 ## 🛠️ Future Ideas
 
