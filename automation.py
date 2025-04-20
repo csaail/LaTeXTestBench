@@ -10,8 +10,8 @@ output_base_folder = "screenshots"
 os.makedirs(output_base_folder, exist_ok=True)
 
 # Generate Q1.png to Q100.png
-#image_names = [f"Q{i}.png" for i in range(1, 101)]
-image_names = [f"Q{i}.png" for i in range(71, 81)]
+image_names = [f"Q{i}.png" for i in range(1, 101)]
+#image_names = [f"Q{i}.png" for i in range(1, 11)]
 
 
 # Chrome options with logging
