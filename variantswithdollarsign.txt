@@ -1,0 +1,470 @@
+1. Simplify $\frac{a^{3} a^{7}}{b^{-5}}$ and express your answer with positive indices.
+= $\frac{a^{10}}{b^{-5}}$
+= $a^{10} b^{5}$
+
+2. Simplify $\frac{x^{7}}{x^{3}y^{2}}$ and express your answer with positive indices.
+= $\frac{x^{7-3}}{y^{2}}$
+= $\frac{x^{4}}{y^{2}}$
+
+3. Simplify $\frac{x^{1}x^{4}}{y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{1+4}}{y^{3}}$
+= $\frac{x^{5}}{y^{3}}$
+
+4. Simplify $\frac{y^{4}}{x^{3}x^{2}y}$ and express your answer with positive indices.
+= $\frac{y^{4}}{x^{3+2}y^{1}}$
+= $\frac{y^{3}}{x^{5}}$
+
+5. Simplify $\frac{x^{2}y^{4}}{x^{5}y^{6}}$ and express your answer with positive indices.
+= $\frac{x^{2-5}}{y^{4-6}}$
+= $\frac{x^{-3}}{y^{-2}}$
+= $\frac{1}{x^{3}y^{2}}$
+
+6. Simplify $\frac{a^{6}a^{4}}{b^{3}b^{7}}$ and express your answer with positive indices.
+= $\frac{a^{6+4}}{b^{3+7}}$
+= $\frac{a^{10}}{b^{10}}$
+
+7. Simplify $\frac{m^{-15}n^{-10}}{n^{5}}$ and express your answer with positive indices.
+= $\frac{m^{-15}}{n^{10+5}}$
+= $\frac{m^{-15}}{n^{15}}$
+= $\frac{1}{m^{15}n^{15}}$
+
+8. Simplify $\frac{y^{4}}{x^{5}y^{-5}}$ and express your answer with positive indices.
+= $\frac{y^{4-(-5)}}{x^{5}}$
+= $\frac{y^{9}}{x^{5}}$
+
+9. Simplify $\frac{x^{3}y^{-4}}{y^{5}}$ and express your answer with positive indices.
+= $\frac{x^{3}}{y^{4+5}}$
+= $\frac{x^{3}}{y^{9}}$
+
+10. Simplify $\frac{x^{1}y^{10}}{x^{11}y^{2}}$ and express your answer with positive indices.
+= $\frac{x^{1-11}}{y^{10-2}}$
+= $\frac{x^{-10}}{y^{8}}$
+= $\frac{y^{8}}{x^{10}}$
+
+
+11. Simplify $\frac{x^{-3}y^{5}}{x^{4}y^{6}}$ and express your answer with positive indices.
+= $\frac{y^{5-6}}{x^{4+3}}$
+= $\frac{y^{-1}}{x^{7}}$
+= $\frac{1}{x^{7}y}$
+
+12. Simplify $\frac{x^{-2}y^{5}}{x^{-3}y^{7}}$ and express your answer with positive indices.
+= $\frac{x^{-2-(-3)}}{y^{5-7}}$
+= $\frac{x^{1}}{y^{-2}}$
+= $x^{1}y^{2}$
+
+13. Simplify $\frac{x^{-5}y^{8}}{x^{7}y^{-3}}$ and express your answer with positive indices.
+= $\frac{x^{-5-7}}{y^{8-(-3)}}$
+= $\frac{x^{-12}}{y^{11}}$
+= $\frac{y^{11}}{x^{12}}$
+
+14. Simplify $\frac{uv^{-3}}{(u^{2}v^{-3})^{4}}$ and express your answer with positive indices.
+= $\frac{uv^{-3}}{u^{8}v^{-12}}$
+= $\frac{u^{1-8}}{v^{12-3}}$
+= $\frac{u^{-7}}{v^{9}}$
+= $\frac{v^{9}}{u^{7}}$
+
+15. Simplify $\frac{(x^{3}y^{2})^{-3}}{x^{-2}y^{-3}}$ and express your answer with positive indices.
+= $\frac{x^{-9}y^{-6}}{x^{-2}y^{-3}}$
+= $\frac{x^{-9-(-2)}}{y^{-6-(-3)}}$
+= $\frac{x^{-7}}{y^{-3}}$
+= $\frac{1}{x^{7}y^{3}}$
+
+16. Simplify $u^{3}v(u^{-2}v)^{3}$ and express your answer with positive indices.
+= $u^{3}v \cdot u^{-6}v^{3}$
+= $u^{3-6}v^{1+3}$
+= $u^{-3}v^{4}$
+= $\frac{v^{4}}{u^{3}}$
+
+17. Simplify $u^{3}v^{4}(uv^{-3})^{2}$ and express your answer with positive indices.
+= $u^{3}v^{4} \cdot u^{2}v^{-6}$
+= $u^{3+2}v^{4-6}$
+= $u^{5}v^{-2}$
+= $\frac{u^{5}}{v^{2}}$
+
+18. Simplify $h^{-2}k^{4}(h^{3}k)^{-2}$ and express your answer with positive indices.
+= $h^{-2}k^{4} \cdot h^{-6}k^{-2}$
+= $h^{-2-6}k^{4-2}$
+= $h^{-8}k^{2}$
+= $\frac{k^{2}}{h^{8}}$
+
+19. Simplify $\frac{r^{4}s^{-5}}{(r^{3}s)^{-3}}$ and express your answer with positive indices.
+= $\frac{r^{4}s^{-5}}{r^{-9}s^{-3}}$
+= $r^{4-(-9)} s^{-5-(-3)}$
+= $r^{13} s^{-2}$
+
+20. Simplify $\frac{pq^{3}}{(p^{-2}q^{4})^{-5}}$ and express your answer with positive indices.
+= $\frac{pq^{3}}{p^{10}q^{-20}}$
+= $\frac{p^{1-10}}{q^{-20-3}}$
+= $\frac{p^{-9}}{q^{-23}}$
+= $\frac{q^{23}}{p^{9}}$
+
+21. Simplify $\frac{a^{2} a^{6}}{b^{-3}}$ and express your answer with positive indices.
+= $\frac{a^{2+6}}{b^{-3}}$
+= $\frac{a^{8}}{b^{-3}}$
+= $a^{8} b^{3}$
+
+22. Simplify $\frac{x^{5}}{x^{1}y^{4}}$ and express your answer with positive indices.
+= $\frac{x^{5-1}}{y^{4}}$
+= $\frac{x^{4}}{y^{4}}$
+
+23. Simplify $\frac{x^{4}x^{2}}{y^{1}}$ and express your answer with positive indices.
+= $\frac{x^{4+2}}{y^{1}}$
+= $\frac{x^{6}}{y}$
+
+24. Simplify $\frac{y^{2}}{x^{4}x^{1}y^{-1}}$ and express your answer with positive indices.
+= $\frac{y^{2-(-1)}}{x^{4+1}}$
+= $\frac{y^{3}}{x^{5}}$
+
+25. Simplify $\frac{x^{4}y^{2}}{x^{8}y^{5}}$ and express your answer with positive indices.
+= $\frac{x^{4-8}}{y^{2-5}}$
+= $\frac{x^{-4}}{y^{-3}}$
+= $\frac{1}{x^{4}y^{3}}$
+
+26. Simplify $\frac{a^{7}a^{2}}{b^{2}b^{8}}$ and express your answer with positive indices.
+= $\frac{a^{7+2}}{b^{2+8}}$
+= $\frac{a^{9}}{b^{10}}$
+
+27. Simplify $\frac{m^{-18}n^{-11}}{n^{6}}$ and express your answer with positive indices.
+= $\frac{m^{-18}}{n^{11+6}}$
+= $\frac{m^{-18}}{n^{17}}$
+= $\frac{1}{m^{18}n^{17}}$
+
+28. Simplify $\frac{y^{6}}{x^{4}y^{-3}}$ and express your answer with positive indices.
+= $\frac{y^{6-(-3)}}{x^{4}}$
+= $\frac{y^{9}}{x^{4}}$
+
+29. Simplify $\frac{x^{1}y^{-5}}{y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{1}}{y^{5+3}}$
+= $\frac{x}{y^{8}}$
+
+30. Simplify $\frac{x^{3}y^{8}}{x^{10}y^{1}}$ and express your answer with positive indices.
+= $\frac{x^{3-10}}{y^{8-1}}$
+= $\frac{x^{-7}}{y^{7}}$
+= $\frac{y^{7}}{x^{7}}$
+
+31. Simplify $\frac{x^{-4}y^{3}}{x^{2}y^{5}}$ and express your answer with positive indices.
+= $\frac{x^{-4-2}}{y^{3-5}}$
+= $\frac{x^{-6}}{y^{-2}}$
+= $\frac{1}{x^{6}y^{2}}$
+
+32. Simplify $\frac{x^{-3}y^{6}}{x^{-5}y^{8}}$ and express your answer with positive indices.
+= $\frac{x^{-3-(-5)}}{y^{6-8}}$
+= $\frac{x^{2}}{y^{-2}}$
+= $x^{2}y^{2}$
+
+33. Simplify $\frac{x^{-7}y^{7}}{x^{6}y^{-5}}$ and express your answer with positive indices.
+= $\frac{x^{-7-6}}{y^{7-(-5)}}$
+= $\frac{x^{-13}}{y^{12}}$
+= $\frac{y^{12}}{x^{13}}$
+
+34. Simplify $\frac{uv^{-2}}{(u^{3}v^{-2})^{3}}$ and express your answer with positive indices.
+= $\frac{uv^{-2}}{u^{9}v^{-6}}$
+= $\frac{u^{1-9}}{v^{-2-(-6)}}$
+= $\frac{u^{-8}}{v^{4}}$
+= $\frac{v^{4}}{u^{8}}$
+
+35. Simplify $\frac{(x^{2}y^{1})^{-3}}{x^{-1}y^{-2}}$ and express your answer with positive indices.
+= $\frac{x^{-6}y^{-3}}{x^{-1}y^{-2}}$
+= $\frac{x^{-6-(-1)}}{y^{-3-(-2)}}$
+= $\frac{x^{-5}}{y^{-1}}$
+= $\frac{1}{x^{5}y}$
+
+
+36. Simplify $u^{5}v(u^{-4}v)^{2}$ and express your answer with positive indices.
+= $u^{5}v \cdot u^{-8}v^{2}$
+= $u^{5-8}v^{1+2}$
+= $u^{-3}v^{3}$
+= $\frac{v^{3}}{u^{3}}$
+
+37. Simplify $u^{2}v^{5}(uv^{-4})^{3}$ and express your answer with positive indices.
+= $u^{2}v^{5} \cdot u^{3}v^{-12}$
+= $u^{2+3}v^{5-12}$
+= $u^{5}v^{-7}$
+= $\frac{u^{5}}{v^{7}}$
+
+38. Simplify $h^{-3}k^{5}(h^{2}k)^{-3}$ and express your answer with positive indices.
+= $h^{-3}k^{5} \cdot h^{-6}k^{-3}$
+= $h^{-3-6}k^{5-3}$
+= $h^{-9}k^{2}$
+= $\frac{k^{2}}{h^{9}}$
+
+39. Simplify $\frac{r^{5}s^{-6}}{(r^{2}s)^{-4}}$ and express your answer with positive indices.
+= $\frac{r^{5}s^{-6}}{r^{-8}s^{-4}}$
+= $r^{5-(-8)} s^{-6-(-4)}$
+= $r^{13} s^{-2}$
+
+40. Simplify $\frac{pq^{4}}{(p^{-2}q^{2})^{-3}}$ and express your answer with positive indices.
+= $\frac{pq^{4}}{p^{6}q^{-6}}$
+= $\frac{p^{1-6}}{q^{-6-4}}$
+= $\frac{p^{-5}}{q^{-10}}$
+= $\frac{q^{10}}{p^{5}}$
+
+41. Simplify $\frac{a^{4} a^{5}}{b^{-4}}$ and express your answer with positive indices.
+= $\frac{a^{4+5}}{b^{-4}}$
+= $\frac{a^{9}}{b^{-4}}$
+= $a^{9} b^{4}$
+
+42. Simplify $\frac{x^{6}}{x^{2}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{6-2}}{y^{3}}$
+= $\frac{x^{4}}{y^{3}}$
+
+43. Simplify $\frac{x^{2}x^{3}}{y^{2}}$ and express your answer with positive indices.
+= $\frac{x^{2+3}}{y^{2}}$
+= $\frac{x^{5}}{y^{2}}$
+
+44. Simplify $\frac{y^{3}}{x^{2}x^{2}y}$ and express your answer with positive indices.
+= $\frac{y^{3-1}}{x^{2+2}}$
+= $\frac{y^{2}}{x^{4}}$
+
+45. Simplify $\frac{x^{3}y^{3}}{x^{6}y^{5}}$ and express your answer with positive indices.
+= $\frac{x^{3-6}}{y^{3-5}}$
+= $\frac{x^{-3}}{y^{-2}}$
+= $\frac{1}{x^{3}y^{2}}$
+
+46. Simplify $\frac{a^{5}a^{5}}{b^{4}b^{6}}$ and express your answer with positive indices.
+= $\frac{a^{5+5}}{b^{4+6}}$
+= $\frac{a^{10}}{b^{10}}$
+
+47. Simplify $\frac{m^{-20}n^{-12}}{n^{8}}$ and express your answer with positive indices.
+= $\frac{m^{-20}}{n^{12+8}}$
+= $\frac{m^{-20}}{n^{20}}$
+= $\frac{1}{m^{20}n^{20}}$
+
+48. Simplify $\frac{y^{5}}{x^{6}y^{-6}}$ and express your answer with positive indices.
+= $\frac{y^{5-(-6)}}{x^{6}}$
+= $\frac{y^{11}}{x^{6}}$
+
+49. Simplify $\frac{x^{2}y^{-6}}{y^{4}}$ and express your answer with positive indices.
+= $\frac{x^{2}}{y^{6+4}}$
+= $\frac{x^{2}}{y^{10}}$
+
+50. Simplify $\frac{x^{2}y^{12}}{x^{12}y^{4}}$ and express your answer with positive indices.
+= $\frac{x^{2-12}}{y^{12-4}}$
+= $\frac{x^{-10}}{y^{8}}$
+= $\frac{y^{8}}{x^{10}}$
+
+
+51. Simplify $\frac{x^{-5}y^{5}}{x^{4}y^{-2}}$ and express your answer with positive indices.
+= $\frac{y^{5-(-2)}}{x^{-5-4}}$
+= $\frac{y^{7}}{x^{9}}$
+
+52. Simplify $\frac{x^{3}y^{-4}}{x^{-2}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{3-(-2)}}{y^{-4-3}}$
+= $\frac{x^{5}}{y^{7}}$
+
+53. Simplify $\frac{a^{-3}b^{6}}{a^{2}b^{-3}}$ and express your answer with positive indices.
+= $\frac{a^{-3-2}}{b^{6-(-3)}}$
+= $\frac{a^{-5}}{b^{9}}$
+= $\frac{b^{9}}{a^{5}}$
+
+54. Simplify $\frac{x^{-4}y^{8}}{x^{3}y^{-2}}$ and express your answer with positive indices.
+= $\frac{y^{8-(-2)}}{x^{-4-3}}$
+= $\frac{y^{10}}{x^{7}}$
+
+55. Simplify $\frac{x^{7}y^{-5}}{x^{-1}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{7-(-1)}}{y^{-5-3}}$
+= $\frac{x^{8}}{y^{8}}$
+
+56. Simplify $\frac{a^{4}b^{-2}}{a^{-3}b^{5}}$ and express your answer with positive indices.
+= $\frac{a^{4-(-3)}}{b^{-2-5}}$
+= $\frac{a^{7}}{b^{7}}$
+
+57. Simplify $\frac{x^{-2}y^{4}}{x^{3}y^{-6}}$ and express your answer with positive indices.
+= $\frac{x^{-2-3}}{y^{4-(-6)}}$
+= $\frac{x^{-5}}{y^{10}}$
+= $\frac{y^{10}}{x^{5}}$
+
+58. Simplify $\frac{x^{-3}y^{-4}}{x^{-1}y^{2}}$ and express your answer with positive indices.
+= $\frac{x^{-3-(-1)}}{y^{-4-2}}$
+= $\frac{x^{-2}}{y^{-6}}$
+= $\frac{1}{x^{2}y^{6}}$
+
+59. Simplify $\frac{x^{-1}y^{-1}}{x^{2}y^{-3}}$ and express your answer with positive indices.
+= $\frac{x^{-1-2}}{y^{-1-(-3)}}$
+= $\frac{x^{-3}}{y^{2}}$
+= $\frac{y^{2}}{x^{3}}$
+
+60. Simplify $\frac{p^{-4}q^{6}}{p^{2}q^{-2}}$ and express your answer with positive indices.
+= $\frac{p^{-4-2}}{q^{6-(-2)}}$
+= $\frac{p^{-6}}{q^{8}}$
+= $\frac{q^{8}}{p^{6}}$
+
+61. Simplify $\frac{a^{5}b^{-5}}{a^{-2}b^{4}}$ and express your answer with positive indices.
+= $\frac{a^{5-(-2)}}{b^{-5-4}}$
+= $\frac{a^{7}}{b^{9}}$
+
+62. Simplify $\frac{x^{-3}y^{7}}{x^{4}y^{-2}}$ and express your answer with positive indices.
+= $\frac{y^{7-(-2)}}{x^{-3-4}}$
+= $\frac{y^{9}}{x^{7}}$
+
+63. Simplify $\frac{p^{2}q^{-3}}{p^{-1}q^{4}}$ and express your answer with positive indices.
+= $\frac{p^{2-(-1)}}{q^{-3-4}}$
+= $\frac{p^{3}}{q^{7}}$
+
+64. Simplify $\frac{x^{5}y^{-1}}{x^{-3}y^{2}}$ and express your answer with positive indices.
+= $\frac{x^{5-(-3)}}{y^{-1-2}}$
+= $\frac{x^{8}}{y^{3}}$
+
+65. Simplify $\frac{m^{-2}n^{3}}{m^{4}n^{-5}}$ and express your answer with positive indices.
+= $\frac{m^{-2-4}}{n^{3-(-5)}}$
+= $\frac{m^{-6}}{n^{8}}$
+= $\frac{n^{8}}{m^{6}}$
+
+66. Simplify $\frac{a^{-6}b^{4}}{a^{2}b^{-3}}$ and express your answer with positive indices.
+= $\frac{a^{-6-2}}{b^{4-(-3)}}$
+= $\frac{a^{-8}}{b^{7}}$
+= $\frac{b^{7}}{a^{8}}$
+
+67. Simplify $\frac{x^{7}y^{-4}}{x^{-2}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{7-(-2)}}{y^{-4-3}}$
+= $\frac{x^{9}}{y^{7}}$
+
+68. Simplify $\frac{p^{5}q^{-6}}{p^{-3}q^{2}}$ and express your answer with positive indices.
+= $\frac{p^{5-(-3)}}{q^{-6-2}}$
+= $\frac{p^{8}}{q^{8}}$
+
+69. Simplify $\frac{x^{-1}y^{3}}{x^{3}y^{-4}}$ and express your answer with positive indices.
+= $\frac{x^{-1-3}}{y^{3-(-4)}}$
+= $\frac{x^{-4}}{y^{7}}$
+= $\frac{y^{7}}{x^{4}}$
+
+70. Simplify $\frac{p^{-5}q^{2}}{p^{3}q^{-3}}$ and express your answer with positive indices.
+= $\frac{p^{-5-3}}{q^{2-(-3)}}$
+= $\frac{p^{-8}}{q^{5}}$
+= $\frac{q^{5}}{p^{8}}$
+
+71. Simplify $\frac{a^{4}b^{-7}}{a^{-2}b^{3}}$ and express your answer with positive indices.
+= $\frac{a^{4-(-2)}}{b^{-7-3}}$
+= $\frac{a^{6}}{b^{10}}$
+
+72. Simplify $\frac{x^{-2}y^{5}}{x^{3}y^{-2}}$ and express your answer with positive indices.
+= $\frac{y^{5-(-2)}}{x^{-2-3}}$
+= $\frac{y^{7}}{x^{5}}$
+
+73. Simplify $\frac{p^{6}q^{-8}}{p^{-4}q^{2}}$ and express your answer with positive indices.
+= $\frac{p^{6-(-4)}}{q^{-8-2}}$
+= $\frac{p^{10}}{q^{10}}$
+
+74. Simplify $\frac{x^{3}y^{-5}}{x^{-3}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{3-(-3)}}{y^{-5-3}}$
+= $\frac{x^{6}}{y^{8}}$
+
+75. Simplify $\frac{a^{-5}b^{3}}{a^{2}b^{-4}}$ and express your answer with positive indices.
+= $\frac{a^{-5-2}}{b^{3-(-4)}}$
+= $\frac{a^{-7}}{b^{7}}$
+= $\frac{b^{7}}{a^{7}}$
+
+76. Simplify $\frac{x^{-6}y^{2}}{x^{4}y^{-5}}$ and express your answer with positive indices.
+= $\frac{x^{-6-4}}{y^{2-(-5)}}$
+= $\frac{x^{-10}}{y^{7}}$
+= $\frac{y^{7}}{x^{10}}$
+
+77. Simplify $\frac{m^{3}n^{-2}}{m^{-1}n^{3}}$ and express your answer with positive indices.
+= $\frac{m^{3-(-1)}}{n^{-2-3}}$
+= $\frac{m^{4}}{n^{5}}$
+
+78. Simplify $\frac{x^{-3}y^{6}}{x^{2}y^{-4}}$ and express your answer with positive indices.
+= $\frac{x^{-3-2}}{y^{6-(-4)}}$
+= $\frac{x^{-5}}{y^{10}}$
+= $\frac{y^{10}}{x^{5}}$
+
+79. Simplify $\frac{a^{7}b^{-8}}{a^{-3}b^{2}}$ and express your answer with positive indices.
+= $\frac{a^{7-(-3)}}{b^{-8-2}}$
+= $\frac{a^{10}}{b^{10}}$
+
+80. Simplify $\frac{x^{-4}y^{-3}}{x^{3}y^{2}}$ and express your answer with positive indices.
+= $\frac{x^{-4-3}}{y^{-3-2}}$
+= $\frac{x^{-7}}{y^{-5}}$
+= $\frac{1}{x^{7}y^{5}}$
+
+
+81. Simplify $\frac{x^{2}y^{-2}}{x^{-2}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{2-(-2)}}{y^{-2-3}}$
+= $\frac{x^{4}}{y^{5}}$
+
+82. Simplify $\frac{a^{-4}b^{5}}{a^{3}b^{-2}}$ and express your answer with positive indices.
+= $\frac{a^{-4-3}}{b^{5-(-2)}}$
+= $\frac{a^{-7}}{b^{7}}$
+= $\frac{b^{7}}{a^{7}}$
+
+83. Simplify $\frac{x^{-1}y^{4}}{x^{2}y^{-5}}$ and express your answer with positive indices.
+= $\frac{x^{-1-2}}{y^{4-(-5)}}$
+= $\frac{x^{-3}}{y^{9}}$
+= $\frac{y^{9}}{x^{3}}$
+
+84. Simplify $\frac{m^{-5}n^{6}}{m^{4}n^{-3}}$ and express your answer with positive indices.
+= $\frac{m^{-5-4}}{n^{6-(-3)}}$
+= $\frac{m^{-9}}{n^{9}}$
+= $\frac{n^{9}}{m^{9}}$
+
+85. Simplify $\frac{p^{3}q^{-2}}{p^{-2}q^{4}}$ and express your answer with positive indices.
+= $\frac{p^{3-(-2)}}{q^{-2-4}}$
+= $\frac{p^{5}}{q^{6}}$
+
+86. Simplify $\frac{a^{-3}b^{6}}{a^{2}b^{-3}}$ and express your answer with positive indices.
+= $\frac{a^{-3-2}}{b^{6-(-3)}}$
+= $\frac{a^{-5}}{b^{9}}$
+= $\frac{b^{9}}{a^{5}}$
+
+87. Simplify $\frac{x^{5}y^{-4}}{x^{-2}y^{3}}$ and express your answer with positive indices.
+= $\frac{x^{5-(-2)}}{y^{-4-3}}$
+= $\frac{x^{7}}{y^{7}}$
+
+88. Simplify $\frac{p^{-3}q^{2}}{p^{4}q^{-4}}$ and express your answer with positive indices.
+= $\frac{p^{-3-4}}{q^{2-(-4)}}$
+= $\frac{p^{-7}}{q^{6}}$
+= $\frac{q^{6}}{p^{7}}$
+
+89. Simplify $\frac{a^{6}b^{-5}}{a^{-4}b^{3}}$ and express your answer with positive indices.
+= $\frac{a^{6-(-4)}}{b^{-5-3}}$
+= $\frac{a^{10}}{b^{8}}$
+
+90. Simplify $\frac{x^{-4}y^{3}}{x^{3}y^{-2}}$ and express your answer with positive indices.
+= $\frac{x^{-4-3}}{y^{3-(-2)}}$
+= $\frac{x^{-7}}{y^{5}}$
+= $\frac{y^{5}}{x^{7}}$
+
+91. Simplify $\frac{m^{3}n^{-5}}{m^{-1}n^{4}}$ and express your answer with positive indices.
+= $\frac{m^{3-(-1)}}{n^{-5-4}}$
+= $\frac{m^{4}}{n^{9}}$
+
+92. Simplify $\frac{x^{-2}y^{6}}{x^{2}y^{-3}}$ and express your answer with positive indices.
+= $\frac{y^{6-(-3)}}{x^{-2-2}}$
+= $\frac{y^{9}}{x^{4}}$
+
+93. Simplify $\frac{a^{7}b^{-6}}{a^{-3}b^{4}}$ and express your answer with positive indices.
+= $\frac{a^{7-(-3)}}{b^{-6-4}}$
+= $\frac{a^{10}}{b^{10}}$
+
+94. Simplify $\frac{x^{-3}y^{3}}{x^{3}y^{-3}}$ and express your answer with positive indices.
+= $\frac{x^{-3-3}}{y^{3-(-3)}}$
+= $\frac{x^{-6}}{y^{6}}$
+= $\frac{y^{6}}{x^{6}}$
+
+95. Simplify $\frac{a^{-2}b^{2}}{a^{3}b^{-3}}$ and express your answer with positive indices.
+= $\frac{a^{-2-3}}{b^{2-(-3)}}$
+= $\frac{a^{-5}}{b^{5}}$
+= $\frac{b^{5}}{a^{5}}$
+
+96. Simplify $\frac{x^{5}y^{-2}}{x^{-2}y^{4}}$ and express your answer with positive indices.
+= $\frac{x^{5-(-2)}}{y^{-2-4}}$
+= $\frac{x^{7}}{y^{6}}$
+
+97. Simplify $\frac{p^{-2}q^{5}}{p^{3}q^{-2}}$ and express your answer with positive indices.
+= $\frac{p^{-2-3}}{q^{5-(-2)}}$
+= $\frac{p^{-5}}{q^{7}}$
+= $\frac{q^{7}}{p^{5}}$
+
+98. Simplify $\frac{a^{3}b^{-3}}{a^{-2}b^{3}}$ and express your answer with positive indices.
+= $\frac{a^{3-(-2)}}{b^{-3-3}}$
+= $\frac{a^{5}}{b^{6}}$
+
+99. Simplify $\frac{x^{-5}y^{4}}{x^{2}y^{-2}}$ and express your answer with positive indices.
+= $\frac{x^{-5-2}}{y^{4-(-2)}}$
+= $\frac{x^{-7}}{y^{6}}$
+= $\frac{y^{6}}{x^{7}}$
+
+100. Simplify $\frac{m^{-4}n^{3}}{m^{3}n^{-2}}$ and express your answer with positive indices.
+= $\frac{m^{-4-3}}{n^{3-(-2)}}$
+= $\frac{m^{-7}}{n^{5}}$
+= $\frac{n^{5}}{m^{7}}$
