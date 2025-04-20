@@ -5,7 +5,7 @@ import os
 import re
 
 # Read lines from the file
-with open("variantswithdollarsign.txt", "r", encoding='utf-8') as f:
+with open("variants.txt", "r", encoding='utf-8') as f:
     lines = [line.strip() for line in f if line.strip()]
 
 # Output folder
